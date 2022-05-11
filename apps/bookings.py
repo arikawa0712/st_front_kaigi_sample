@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import datetime
 
-endpoint = 'https://[your domain].deta.dev'
+endpoint = 'https://ahmikj.deta.dev/'
 
 def app():
   st.title('会議室予約')
